@@ -1,0 +1,30 @@
+<DOCTYPE html>
+    <html>
+        <html lang="pt-br">
+            <head>
+                <meta charset="utf-8">
+                <little Minha pagina></little>
+            </head>
+            <body>
+                <nav> 
+                    <p>Minha pagina></p>
+                <ul>
+                    <li>
+                        <a href="#aulas"><AULAS</a>
+                    
+                    </li>
+                    <LI>
+                        <a href="#alunos">ALUNOS</a>
+                    </LI>
+                    <LI>
+                        <a href=#professores"> PROFESSORES</a>
+                    </LI>
+                    <li>
+
+                    </li>
+                </ul>
+                </nav>        
+            </body>
+            </header>
+         </footer>
+    </html>
