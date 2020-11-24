@@ -1,30 +1,35 @@
 <DOCTYPE html>
-    <html>
-        <html lang="pt-br">
-            <head>
-                <meta charset="utf-8">
-                <little Minha pagina></little>
-            </head>
-            <body>
-                <nav> 
-                    <p>Minha pagina></p>
-                <ul>
-                    <li>
-                        <a href="#aulas"><AULAS</a>
-                    
-                    </li>
-                    <LI>
-                        <a href="#alunos">ALUNOS</a>
-                    </LI>
-                    <LI>
-                        <a href=#professores"> PROFESSORES</a>
-                    </LI>
-                    <li>
-
-                    </li>
-                </ul>
-                </nav>        
-            </body>
+<html lang="pt-br">
+   <head>
+       <meta charset="utf-8">
+       <little>Minha pagina></little>
+   </head>
+            
+   <body>
+       <nav> 
+          <p>Minha pagina></p>
+          <ul>
+          <li>
+            <a href="#aulas"><AULAS</a
+          </li>
+          <li>
+            <a href="#alunos">ALUNOS</a>
+          </lI>
+          <lI>
+            <a href=#professores">PROFESSORES</a></li>
+          <li><a>href=#diciplinas</a></li>
+          <li>
+              <a>href=#"conato">CONTATO</a>
+          </li>
+          </ul>
+          </nav>
+          
+          <hearder>
+          <h1>Minha página></h1>
+          <p>
+            Oferecemos material didático, e temos ótimos professores
+            </p>
+          </body>
             </header>
          </footer>
     </html>
