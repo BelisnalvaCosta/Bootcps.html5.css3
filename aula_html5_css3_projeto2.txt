@@ -1,8 +1,8 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
    <head>
        <meta charset="utf-8">
-       <little>Minha pagina></little>
+       <litle>Minha pagina></litle>
    </head>
             
    <body>
@@ -10,26 +10,40 @@
           <p>Minha pagina></p>
           <ul>
           <li>
-            <a href="#aulas"><AULAS</a
+            <a href="# aulas"><AULAS</a>
           </li>
           <li>
-            <a href="#alunos">ALUNOS</a>
-          </lI>
-          <lI>
-            <a href=#professores">PROFESSORES</a></li>
-          <li><a>href=#diciplinas</a></li>
+            <a href="# alunos">ALUNOS</a>
+          </li>
           <li>
-              <a>href=#"conato">CONTATO</a>
+            <a href="# professores">PROFESSORES</a>
+          </li>
+          <li>
+            <a href="# diciplinas">DISCIPLINA</a>
+          </li>
+          <li>
+            <a href="# contato">CONTATO</a>
           </li>
           </ul>
-          </nav>
+       </nav>
           
-          <hearder>
+   <header>
           <h1>Minha página></h1>
           <p>
-            Oferecemos material didático, e temos ótimos professores
-            </p>
-          </body>
-            </header>
-         </footer>
-    </html>
+           Oferecemos material didático, e temos ótimos professores
+          </p>
+   </header>
+   <selection id="aulas">
+           <h2>AULAS</h2>
+           <p>
+           Oferecemos as melhores aulas educacionais da região!
+           </p>
+           <dir> 
+           <img src="img/site.jpg" width="300px">
+           </dir>
+           https://www.pexels.com/pt-br/procurar/estudo%20ecol%C3%B3gico/
+   </body>
+   </header>
+   </footer>
+</html>
+
