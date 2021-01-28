@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="pt-br">
    <head>
-       <meta charset="utf-8">
+       <meta charset="utf-8"/>
+       <link rel="stylesheet" type="text/css" href="estilo.css"
        <litle>Minha pagina></litle>
    </head>
             
@@ -27,12 +28,12 @@
           </ul>
        </nav>
           
-   <header>
+   <head>
           <h1>Minha página></h1>
           <p>
            Oferecemos material didático, e temos ótimos professores
           </p>
-   </header>
+   </head>
    <selection id="aulas">
            <h2>AULAS</h2>
            <p>
@@ -43,7 +44,7 @@
            </dir>
            https://www.pexels.com/pt-br/procurar/estudo%20ecol%C3%B3gico/
    </body>
-   </header>
+   </head>
    </footer>
 </html>
 
