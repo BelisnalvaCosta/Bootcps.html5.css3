@@ -40,10 +40,9 @@
            Oferecemos as melhores aulas educacionais da região!
            </p>
            <dir> 
-           <img src="img/site.jpg" width="300px">
+           <img src="https://www.pexels.com/pt-br/procurar/estudo%20ecol%C3%B3gico/" width="300px">
            </dir>
-           https://www.pexels.com/pt-br/procurar/estudo%20ecol%C3%B3gico/
-   </body>
+    </body>
    </head>
    </footer>
 </html>
